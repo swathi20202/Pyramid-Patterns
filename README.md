@@ -1,1 +1,1 @@
-# Pyramid-Patterns
+# Pyramid-Patterns in a easy way
